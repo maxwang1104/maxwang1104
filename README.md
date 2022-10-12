@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max Wang</h1>
-<h3 align="center">A passionate PROGRAMER from Taiwan</h3>
+<h3 align="left">A passionate PROGRAMER from Taiwan</h3>
 
 - 🔭 I’m currently working on [Adversarial-Attack&Defense-in-ML-CANbus-IDS](https://github.com/maxwang1104/Defense-Adversarial-in-ML-CAN-IDS)
 
