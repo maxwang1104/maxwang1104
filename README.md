@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Mining & Evolutionary Computation**
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **maxwang.ac05@g2.nctu.edu.tw**
 
 <h3 align="left">Connect with me:</h3>
